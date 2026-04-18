@@ -1,3 +1,4 @@
 .cache/
 __pycache__/
 chroma_data/
+bge_healthcare_indices/
