@@ -19,8 +19,6 @@ python bge_analysis.py
 
 ### Future Work
 1. Integration of the Healthcare JSONL dataset.
-2. Implementation of Sliding Window Chunking for long-form medical records.
-3. Evaluation of hybrid search (Keyword + Semantic).
 
 Author: Rihan Behera
 
